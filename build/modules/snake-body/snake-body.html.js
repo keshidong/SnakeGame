@@ -1,1 +1,0 @@
-define(function(require, exports, module) {module.exports ='<div class=\"snake-wrap\" node-type=\"snake\">    <div class=\"snake-part\"></div>    <div class=\"snake-part\"></div>    <div class=\"snake-part\"></div></div>';});

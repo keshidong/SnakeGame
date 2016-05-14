@@ -1,1 +1,0 @@
-define(function(require, exports, module) {module.exports ='<div class=\"score\">0</div>';});
